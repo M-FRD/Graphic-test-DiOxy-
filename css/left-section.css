@@ -1,0 +1,12 @@
+:root{
+    font-size: 10px;
+}
+*{
+    box-sizing: border-box;
+}
+
+.left-section {
+    width: 50vw;
+    height: 100vh;
+    border-right: solid 1px black;
+}
